@@ -1,4 +1,4 @@
-name="Merger of Humans"
+name="Human Portraits: Unified"
 tags={
 	"Species"
 	"Graphics"

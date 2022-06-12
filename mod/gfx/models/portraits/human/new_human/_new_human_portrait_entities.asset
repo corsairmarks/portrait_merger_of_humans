@@ -1,0 +1,36 @@
+#FEMALE
+
+	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#
+	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#
+
+# Modified: Reduced scale to be more similar in height to the legacy human portraits
+@humanscale = 0.78
+
+entity = {
+	name = "portrait_human_female_entity"
+	pdxmesh = "portrait_human_female_mesh"
+
+	default_state = "idle"
+	state = { name = "idle"       animation = "idle1"    animation_blend_time = 0.0 chance = 8.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle2"    animation_blend_time = 0.0 chance = 8.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle3"    animation_blend_time = 0.0 chance = 1.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle3"    animation_blend_time = 0.0 chance = 1.0 looping = no next_state = idle}
+	scale = @humanscale
+}
+
+#MALE
+
+	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#
+	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#	#
+
+entity = {
+	name = "portrait_human_male_entity"
+	pdxmesh = "portrait_human_male_mesh"
+
+	default_state = "idle"
+	state = { name = "idle"       animation = "idle1"    animation_blend_time = 0.0 chance = 8.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle2"    animation_blend_time = 0.0 chance = 8.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle3"    animation_blend_time = 0.0 chance = 1.0 looping = no next_state = idle}
+	state = { name = "idle"       animation = "idle4"    animation_blend_time = 0.0 chance = 1.0 looping = no next_state = idle}
+	scale = @humanscale
+}

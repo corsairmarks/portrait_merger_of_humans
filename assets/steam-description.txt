@@ -17,7 +17,7 @@ Built for Stellaris 3.4 "Cepheus."  [b][i]Yes[/i][/b], this is achievement compa
 Will not work with other portrait mods that also edit the [b]07_portraits_human.txt[/b] file, but [i]should[/i] work with mods that add clothing or hair to the legacy human portraits.
 
 [h2]Changelog[/h2]
-See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2820018928]Change Notes[/url]
 
 [h2]Source Code[/h2]
 Hosted on [url=https://github.com/corsairmarks/portrait_merger_of_humans]GitHub[/url]

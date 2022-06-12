@@ -25,7 +25,7 @@ Will not work with other portrait mods that also edit the `07_portraits_human.tx
 
 ## Source Code
 
-Hosted on [GitHub]()
+Hosted on [GitHub](https://github.com/corsairmarks/portrait_merger_of_humans)
 
 ### Development Notes
 

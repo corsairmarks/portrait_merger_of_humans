@@ -11,7 +11,7 @@ This mod overwrites two files from the Stellaris game:
 * `gfx\portraits\portraits\07_portraits_human.txt` - alters the human portrait groups to use all human portraits in both groups (this one is most important)
 * `gfx\models\portraits\human\new_human\_new_human_portrait_entities.asset` - reduces the scale on the new human portraits to make their size closer to the legacy portraits (from 0.81 to 0.78)
 
-If anyone who understands working with Stellaris meshes reads this - I think the "issue" is that the legacy human mesh has its content closer to the origin, thus making the legacy humans appear shorter.  The actual texture files are the same dimensions and (whn viewed with a graphics editor) approximately the same height at the shoulder.  If anyone would like to help me adjust the legacy human meshes, I would appreciate it.  I would like to give them similar "height" to the new portraits, which should be possible because the bottom of their graphics are already cut off in the game display.
+If anyone who understands working with Stellaris meshes reads this - I think the "issue" is that the legacy human mesh has its content closer to the origin, thus making the legacy humans appear shorter.  The actual texture files are the same dimensions and (when viewed with a graphics editor) approximately the same height at the shoulder.  If anyone would like to help me adjust the legacy human meshes, I would appreciate it.  I would like to give them similar "height" to the new portraits, which should be possible because the bottom of their graphics are already cut off in the game display.
 
 ## Compatibility
 

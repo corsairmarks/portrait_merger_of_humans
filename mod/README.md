@@ -15,7 +15,7 @@ If anyone who understands working with Stellaris meshes reads this - I think the
 
 ## Compatibility
 
-Built for Stellaris 3.7 "Canis Minor" and backwards-compatible with version 3.5 "Fornax."  **_Yes_**, this is achievement compatible and can be added or removed from your game at any time.
+Built for Stellaris 3.8 "Gemini" and backwards-compatible with version 3.7 "Canis Minor," 3.6 "Orion," and 3.5 "Fornax."  **_Yes_**, this is achievement compatible and can be added or removed from your game at any time.
 
 Will not work with other portrait mods that also edit the `07_portraits_human.txt` file, but _should_ work with mods that add clothing or attachments to the legacy human portraits.
 
@@ -23,7 +23,8 @@ Will not work with other portrait mods that also edit the `07_portraits_human.tx
 
 * 1.0.0 Initial version
 * 2.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax") - `hair` to `attachment`
-* 2.1.0 Flagged as compatible with Stellaris 3.7 "Canis Minor" - no actual changes
+* 2.1.0 Mark as compatible with Stellaris 3.7 "Canis Minor" - no actual changes
+* 2.2.0 Mark as compatible with Stellaris 3.8 "Gemini" - no actual changes
 
 ## Source Code
 

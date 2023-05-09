@@ -12,7 +12,7 @@ This mod overwrites two files from the Stellaris game:
 If anyone who understands working with Stellaris meshes reads this - I think the "issue" is that the legacy human mesh has its content closer to the origin, thus making the legacy humans appear shorter.  The actual texture files are the same dimensions and (when viewed with a graphics editor) approximately the same height at the shoulder.  If anyone would like to help me adjust the legacy human meshes, I would appreciate it.  I would like to give them similar "height" to the new portraits, which should be possible because the bottom of their graphics are already cut off in the game display.
 
 [h2]Compatibility[/h2]
-Built for Stellaris 3.7 "Canis Minor" and backwards-compatible with version 3.5 "Fornax."  [b][i]Yes[/i][/b], this is achievement compatible and can be added or removed from your game at any time.
+Built for Stellaris 3.8 "Gemini" and backwards-compatible with versions 3.7 "Canis Minor," 3.6 "Orion," and 3.5 "Fornax."  [b][i]Yes[/i][/b], this is achievement compatible and can be added or removed from your game at any time.
 
 Will not work with other portrait mods that also edit the [b]07_portraits_human.txt[/b] file, but [i]should[/i] work with mods that add clothing or attachments to the legacy human portraits.
 
